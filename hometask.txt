@@ -9,3 +9,19 @@ commits that exist in master but do not exist in demo:
 commits that exist in demo but do not exist in master:
 1 Merge branch 'buttons' into demo
 2 Merge branch 'boots' into release
+
+
+
+commits (12):
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+first commit
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+hometask.txt added
