@@ -1,0 +1,11 @@
+commits that exist in master but do not exist in demo:
+1 Merge branch 'boots_buttons'
+2 Merge remote-tracking branch 'origin/hat'
+3 first commit
+4 Merge remote-tracking branch 'origin/buttons' into boots_buttons
+5 Merge remote-tracking branch 'origin/boots' into boots_buttons
+6 fix readme
+
+commits that exist in demo but do not exist in master:
+1 Merge branch 'buttons' into demo
+2 Merge branch 'boots' into release
